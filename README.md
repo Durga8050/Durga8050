@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Durga8050
+- 👋 Hi, I’m @DurgaGouravaraju
 - 👀 I’m interested in Aerodynamics, Design of Centrifugal Compressors and Radial Turbines, Applying Machine Learning concepts to solve engineering problems
 - 🌱 I’m currently learning Deep Learning and 
 - 💞️ I’m looking to collaborate on ...
